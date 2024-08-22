@@ -1,6 +1,6 @@
 # spent-money-monthly-tracker
 An application requested by one of my friend.
-[https://smmt.190304.xyz/](smmt.190304.xyz)
+[smmt.190304.xyz](https://smmt.190304.xyz)
 Functionalities
 To be able to set how much money you are allowed to spend every month.
 The application generates a daily allowance based on your budget.
